@@ -1,0 +1,1814 @@
+Iteration 1
+-------------------------
+Step 0
+	step: 0
+	state: 1
+	interval: [None, 40.5]
+	reward: 0
+	acc_reward: 0
+	freqpos: 5
+	frequency: 1700000
+	power: 39.811800299228594
+Step 1
+	step: 1
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -1
+	freqpos: 5
+	frequency: 1700000
+	power: 39.83494367600627
+Step 2
+	step: 2
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -2
+	freqpos: 4
+	frequency: 1600000
+	power: 37.62825385675637
+Step 3
+	step: 3
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -3
+	freqpos: 3
+	frequency: 1500000
+	power: 35.39053048104874
+Step 4
+	step: 4
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -4
+	freqpos: 2
+	frequency: 1400000
+	power: 33.42077642473337
+Step 5
+	step: 5
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -5
+	freqpos: 1
+	frequency: 1300000
+	power: 31.603708986900962
+Step 6
+	step: 6
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -6
+	freqpos: 0
+	frequency: 1200000
+	power: 29.832000304605792
+Step 7
+	step: 7
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -7
+	freqpos: 0
+	frequency: 1200000
+	power: 29.84803043572456
+Step 8
+	step: 8
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -8
+	freqpos: 1
+	frequency: 1300000
+	power: 31.617171320019708
+Step 9
+	step: 9
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -9
+	freqpos: 1
+	frequency: 1300000
+	power: 31.62071872297041
+Step 10
+	step: 10
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -10
+	freqpos: 2
+	frequency: 1400000
+	power: 33.46288482525573
+Step 11
+	step: 11
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -11
+	freqpos: 2
+	frequency: 1400000
+	power: 33.22065282710619
+Step 12
+	step: 12
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -12
+	freqpos: 2
+	frequency: 1400000
+	power: 33.46696273293554
+Step 13
+	step: 13
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -13
+	freqpos: 3
+	frequency: 1500000
+	power: 35.4368234065231
+Step 14
+	step: 14
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -14
+	freqpos: 2
+	frequency: 1400000
+	power: 33.52490398495561
+Step 15
+	step: 15
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -15
+	freqpos: 3
+	frequency: 1500000
+	power: 35.42686897373592
+Step 16
+	step: 16
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -16
+	freqpos: 2
+	frequency: 1400000
+	power: 33.45449761419886
+Step 17
+	step: 17
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -17
+	freqpos: 2
+	frequency: 1400000
+	power: 33.254726956264186
+Step 18
+	step: 18
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -18
+	freqpos: 2
+	frequency: 1400000
+	power: 33.504180997424974
+Step 19
+	step: 19
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -19
+	freqpos: 3
+	frequency: 1500000
+	power: 35.44111289178751
+Step 20
+	step: 20
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -20
+	freqpos: 4
+	frequency: 1600000
+	power: 37.6753170431918
+Step 21
+	step: 21
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -21
+	freqpos: 5
+	frequency: 1700000
+	power: 39.95982725003779
+Step 22
+	step: 22
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -22
+	freqpos: 5
+	frequency: 1700000
+	power: 39.91784664240498
+Step 23
+	step: 23
+	state: 2
+	interval: [40.5, 43.5]
+	reward: 1
+	acc_reward: -21
+	freqpos: 6
+	frequency: 1800000
+	power: 42.27244402275059
+Step 24
+	step: 24
+	state: 3
+	interval: [43.5, 46.5]
+	reward: 1
+	acc_reward: -20
+	freqpos: 7
+	frequency: 1900000
+	power: 44.67410084567604
+Step 25
+	step: 25
+	state: 2
+	interval: [40.5, 43.5]
+	reward: -1
+	acc_reward: -21
+	freqpos: 6
+	frequency: 1800000
+	power: 42.188814771934716
+Step 26
+	step: 26
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -22
+	freqpos: 5
+	frequency: 1700000
+	power: 40.276217924037475
+Step 27
+	step: 27
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -23
+	freqpos: 5
+	frequency: 1700000
+	power: 40.01457100472335
+Step 28
+	step: 28
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -24
+	freqpos: 4
+	frequency: 1600000
+	power: 37.5982962744644
+Step 29
+	step: 29
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -25
+	freqpos: 5
+	frequency: 1700000
+	power: 39.99651268956136
+Step 30
+	step: 30
+	state: 2
+	interval: [40.5, 43.5]
+	reward: 1
+	acc_reward: -24
+	freqpos: 6
+	frequency: 1800000
+	power: 42.30159428565892
+Step 31
+	step: 31
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -25
+	freqpos: 5
+	frequency: 1700000
+	power: 39.98179128239471
+Step 32
+	step: 32
+	state: 2
+	interval: [40.5, 43.5]
+	reward: 1
+	acc_reward: -24
+	freqpos: 6
+	frequency: 1800000
+	power: 42.30716690559148
+Step 33
+	step: 33
+	state: 3
+	interval: [43.5, 46.5]
+	reward: 1
+	acc_reward: -23
+	freqpos: 7
+	frequency: 1900000
+	power: 44.639451627657685
+Step 34
+	step: 34
+	state: 4
+	interval: [46.5, 50.0]
+	reward: 1
+	acc_reward: -22
+	freqpos: 8
+	frequency: 2000000
+	power: 47.552260462055216
+Step 35
+	step: 35
+	state: 5
+	interval: [50.0, 53.5]
+	reward: 1
+	acc_reward: -21
+	freqpos: 9
+	frequency: 2100000
+	power: 50.10777792296237
+Step 36
+	step: 36
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -22
+	freqpos: 10
+	frequency: 2200000
+	power: 52.85882776253016
+Step 37
+	step: 37
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -23
+	freqpos: 10
+	frequency: 2200000
+	power: 52.81641322682539
+Step 38
+	step: 38
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -21
+	freqpos: 11
+	frequency: 2300000
+	power: 56.11762969763278
+Step 39
+	step: 39
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -19
+	freqpos: 11
+	frequency: 2300000
+	power: 56.113856126146224
+Step 40
+	step: 40
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -20
+	freqpos: 12
+	frequency: 2400000
+	power: 59.097655120566706
+Step 41
+	step: 41
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -18
+	freqpos: 11
+	frequency: 2300000
+	power: 56.15248067199782
+Step 42
+	step: 42
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -19
+	freqpos: 12
+	frequency: 2400000
+	power: 59.24808224349805
+Step 43
+	step: 43
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -20
+	freqpos: 12
+	frequency: 2400000
+	power: 59.21703951648321
+Step 44
+	step: 44
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -18
+	freqpos: 11
+	frequency: 2300000
+	power: 56.08800084652813
+Step 45
+	step: 45
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -19
+	freqpos: 10
+	frequency: 2200000
+	power: 52.9334934804821
+Step 46
+	step: 46
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -20
+	freqpos: 9
+	frequency: 2100000
+	power: 50.226812989244664
+Step 47
+	step: 47
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -21
+	freqpos: 8
+	frequency: 2000000
+	power: 47.26384236959053
+Step 48
+	step: 48
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -22
+	freqpos: 8
+	frequency: 2000000
+	power: 47.165128329444244
+Step 49
+	step: 49
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -23
+	freqpos: 8
+	frequency: 2000000
+	power: 47.19990021619603
+Step 50
+	step: 50
+	state: 5
+	interval: [50.0, 53.5]
+	reward: 1
+	acc_reward: -22
+	freqpos: 9
+	frequency: 2100000
+	power: 50.191065614133045
+Step 51
+	step: 51
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -23
+	freqpos: 8
+	frequency: 2000000
+	power: 47.195090091647494
+Step 52
+	step: 52
+	state: 5
+	interval: [50.0, 53.5]
+	reward: 1
+	acc_reward: -22
+	freqpos: 9
+	frequency: 2100000
+	power: 50.1692672030402
+Step 53
+	step: 53
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -23
+	freqpos: 9
+	frequency: 2100000
+	power: 50.2282698022019
+Step 54
+	step: 54
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -24
+	freqpos: 8
+	frequency: 2000000
+	power: 47.25207531077912
+Step 55
+	step: 55
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -25
+	freqpos: 7
+	frequency: 1900000
+	power: 44.462228064238595
+Step 56
+	step: 56
+	state: 4
+	interval: [46.5, 50.0]
+	reward: 1
+	acc_reward: -24
+	freqpos: 8
+	frequency: 2000000
+	power: 47.14117814138997
+Step 57
+	step: 57
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -25
+	freqpos: 7
+	frequency: 1900000
+	power: 44.74394144293294
+Step 58
+	step: 58
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 7
+	frequency: 1900000
+	power: 44.751300515266834
+Step 59
+	step: 59
+	state: 4
+	interval: [46.5, 50.0]
+	reward: 1
+	acc_reward: -25
+	freqpos: 8
+	frequency: 2000000
+	power: 47.2191861786915
+Step 60
+	step: 60
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 7
+	frequency: 1900000
+	power: 44.733119680268615
+Step 61
+	step: 61
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -27
+	freqpos: 7
+	frequency: 1900000
+	power: 44.762443372185324
+Step 62
+	step: 62
+	state: 4
+	interval: [46.5, 50.0]
+	reward: 1
+	acc_reward: -26
+	freqpos: 8
+	frequency: 2000000
+	power: 47.22558411293538
+Step 63
+	step: 63
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -27
+	freqpos: 8
+	frequency: 2000000
+	power: 47.30789668587723
+Step 64
+	step: 64
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -28
+	freqpos: 8
+	frequency: 2000000
+	power: 47.22276882669779
+Step 65
+	step: 65
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -29
+	freqpos: 8
+	frequency: 2000000
+	power: 47.24708082318545
+Step 66
+	step: 66
+	state: 5
+	interval: [50.0, 53.5]
+	reward: 1
+	acc_reward: -28
+	freqpos: 9
+	frequency: 2100000
+	power: 50.259026129176036
+Step 67
+	step: 67
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -29
+	freqpos: 8
+	frequency: 2000000
+	power: 47.26058467359391
+Step 68
+	step: 68
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -30
+	freqpos: 7
+	frequency: 1900000
+	power: 44.77631001018164
+Step 69
+	step: 69
+	state: 4
+	interval: [46.5, 50.0]
+	reward: 1
+	acc_reward: -29
+	freqpos: 8
+	frequency: 2000000
+	power: 47.295570005422775
+Step 70
+	step: 70
+	state: 5
+	interval: [50.0, 53.5]
+	reward: 1
+	acc_reward: -28
+	freqpos: 9
+	frequency: 2100000
+	power: 50.358490315309425
+Step 71
+	step: 71
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -29
+	freqpos: 10
+	frequency: 2200000
+	power: 53.05919819412721
+Step 72
+	step: 72
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -27
+	freqpos: 11
+	frequency: 2300000
+	power: 55.74356015557415
+Step 73
+	step: 73
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -28
+	freqpos: 12
+	frequency: 2400000
+	power: 59.29038890157027
+Step 74
+	step: 74
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -26
+	freqpos: 11
+	frequency: 2300000
+	power: 55.95780088010198
+Step 75
+	step: 75
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -27
+	freqpos: 12
+	frequency: 2400000
+	power: 59.2854153557982
+Step 76
+	step: 76
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -25
+	freqpos: 11
+	frequency: 2300000
+	power: 55.849822962037074
+Step 77
+	step: 77
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 10
+	frequency: 2200000
+	power: 53.07480962919343
+Step 78
+	step: 78
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -24
+	freqpos: 11
+	frequency: 2300000
+	power: 55.98860354223402
+Step 79
+	step: 79
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -25
+	freqpos: 12
+	frequency: 2400000
+	power: 59.32819205671185
+Step 80
+	step: 80
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 12
+	frequency: 2400000
+	power: 59.370805785199614
+Step 81
+	step: 81
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -27
+	freqpos: 12
+	frequency: 2400000
+	power: 59.40417344758236
+Step 82
+	step: 82
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -25
+	freqpos: 11
+	frequency: 2300000
+	power: 55.982514300191134
+Step 83
+	step: 83
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 12
+	frequency: 2400000
+	power: 59.37669031534892
+Step 84
+	step: 84
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -27
+	freqpos: 12
+	frequency: 2400000
+	power: 59.431269579554986
+Step 85
+	step: 85
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -25
+	freqpos: 11
+	frequency: 2300000
+	power: 56.06375931791711
+Step 86
+	step: 86
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 12
+	frequency: 2400000
+	power: 59.44768038268326
+Step 87
+	step: 87
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -27
+	freqpos: 12
+	frequency: 2400000
+	power: 59.39263407618212
+Step 88
+	step: 88
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -25
+	freqpos: 11
+	frequency: 2300000
+	power: 56.01616406162998
+Step 89
+	step: 89
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 12
+	frequency: 2400000
+	power: 59.466494655825834
+Step 90
+	step: 90
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -24
+	freqpos: 11
+	frequency: 2300000
+	power: 55.97991214054955
+Step 91
+	step: 91
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -25
+	freqpos: 12
+	frequency: 2400000
+	power: 58.94155023923445
+Step 92
+	step: 92
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 12
+	frequency: 2400000
+	power: 59.45412640172286
+Step 93
+	step: 93
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -24
+	freqpos: 11
+	frequency: 2300000
+	power: 56.005354358653946
+Step 94
+	step: 94
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -25
+	freqpos: 10
+	frequency: 2200000
+	power: 53.197720517743456
+Step 95
+	step: 95
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 10
+	frequency: 2200000
+	power: 53.124577327834956
+Step 96
+	step: 96
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -27
+	freqpos: 10
+	frequency: 2200000
+	power: 53.17114211373319
+Step 97
+	step: 97
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -25
+	freqpos: 11
+	frequency: 2300000
+	power: 55.957374154495994
+Step 98
+	step: 98
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -26
+	freqpos: 10
+	frequency: 2200000
+	power: 53.152166928863714
+Step 99
+	step: 99
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -27
+	freqpos: 9
+	frequency: 2100000
+	power: 50.161633510832324
+Step 100
+	step: 100
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -28
+	freqpos: 10
+	frequency: 2200000
+	power: 53.17124263757352
+Step 101
+	step: 101
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -29
+	freqpos: 9
+	frequency: 2100000
+	power: 50.08234674931203
+Step 102
+	step: 102
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -30
+	freqpos: 9
+	frequency: 2100000
+	power: 50.12125150164799
+Step 103
+	step: 103
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -31
+	freqpos: 10
+	frequency: 2200000
+	power: 53.126860592450086
+Step 104
+	step: 104
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -32
+	freqpos: 10
+	frequency: 2200000
+	power: 53.14929237505213
+Step 105
+	step: 105
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -33
+	freqpos: 10
+	frequency: 2200000
+	power: 53.14635028587208
+Step 106
+	step: 106
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -34
+	freqpos: 9
+	frequency: 2100000
+	power: 50.25613194899637
+Step 107
+	step: 107
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -35
+	freqpos: 10
+	frequency: 2200000
+	power: 53.138796826672305
+Step 108
+	step: 108
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -36
+	freqpos: 9
+	frequency: 2100000
+	power: 50.03176814581486
+Step 109
+	step: 109
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -37
+	freqpos: 10
+	frequency: 2200000
+	power: 53.17951920611637
+Step 110
+	step: 110
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -38
+	freqpos: 10
+	frequency: 2200000
+	power: 53.157346976532295
+Step 111
+	step: 111
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -36
+	freqpos: 11
+	frequency: 2300000
+	power: 55.993401192781526
+Step 112
+	step: 112
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -37
+	freqpos: 10
+	frequency: 2200000
+	power: 53.19856440192846
+Step 113
+	step: 113
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -38
+	freqpos: 9
+	frequency: 2100000
+	power: 50.14954650237059
+Step 114
+	step: 114
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -39
+	freqpos: 8
+	frequency: 2000000
+	power: 47.465540204585864
+Step 115
+	step: 115
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -40
+	freqpos: 8
+	frequency: 2000000
+	power: 47.16609465463944
+Step 116
+	step: 116
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -41
+	freqpos: 8
+	frequency: 2000000
+	power: 47.48215269492772
+Step 117
+	step: 117
+	state: 5
+	interval: [50.0, 53.5]
+	reward: 1
+	acc_reward: -40
+	freqpos: 9
+	frequency: 2100000
+	power: 50.27089868499948
+Step 118
+	step: 118
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -41
+	freqpos: 10
+	frequency: 2200000
+	power: 53.11620585867075
+Step 119
+	step: 119
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -39
+	freqpos: 11
+	frequency: 2300000
+	power: 56.02489212801751
+Step 120
+	step: 120
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -40
+	freqpos: 10
+	frequency: 2200000
+	power: 53.13907155818039
+Step 121
+	step: 121
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -41
+	freqpos: 10
+	frequency: 2200000
+	power: 53.22039774210497
+Step 122
+	step: 122
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 9
+	frequency: 2100000
+	power: 50.02482338482303
+Step 123
+	step: 123
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -43
+	freqpos: 8
+	frequency: 2000000
+	power: 47.50289965373762
+Step 124
+	step: 124
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 7
+	frequency: 1900000
+	power: 44.98657876684873
+Step 125
+	step: 125
+	state: 4
+	interval: [46.5, 50.0]
+	reward: 1
+	acc_reward: -43
+	freqpos: 8
+	frequency: 2000000
+	power: 47.51258997369388
+Step 126
+	step: 126
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 7
+	frequency: 1900000
+	power: 44.96046325032626
+Step 127
+	step: 127
+	state: 4
+	interval: [46.5, 50.0]
+	reward: 1
+	acc_reward: -43
+	freqpos: 8
+	frequency: 2000000
+	power: 47.461466311448326
+Step 128
+	step: 128
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -44
+	freqpos: 9
+	frequency: 2100000
+	power: 49.988828361021326
+Step 129
+	step: 129
+	state: 5
+	interval: [50.0, 53.5]
+	reward: 1
+	acc_reward: -43
+	freqpos: 10
+	frequency: 2200000
+	power: 53.21195379330173
+Step 130
+	step: 130
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -41
+	freqpos: 11
+	frequency: 2300000
+	power: 56.034908187765915
+Step 131
+	step: 131
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 12
+	frequency: 2400000
+	power: 59.49698237044473
+Step 132
+	step: 132
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -40
+	freqpos: 11
+	frequency: 2300000
+	power: 56.067983958599825
+Step 133
+	step: 133
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -41
+	freqpos: 10
+	frequency: 2200000
+	power: 53.210367514913926
+Step 134
+	step: 134
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 10
+	frequency: 2200000
+	power: 53.22150696300976
+Step 135
+	step: 135
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 9
+	frequency: 2100000
+	power: 50.10606935761933
+Step 136
+	step: 136
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 10
+	frequency: 2200000
+	power: 53.22885020008941
+Step 137
+	step: 137
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -45
+	freqpos: 10
+	frequency: 2200000
+	power: 52.91154967902495
+Step 138
+	step: 138
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -46
+	freqpos: 10
+	frequency: 2200000
+	power: 52.881478410686704
+Step 139
+	step: 139
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -44
+	freqpos: 11
+	frequency: 2300000
+	power: 56.1549936011576
+Step 140
+	step: 140
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -42
+	freqpos: 11
+	frequency: 2300000
+	power: 56.1179010884017
+Step 141
+	step: 141
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -40
+	freqpos: 11
+	frequency: 2300000
+	power: 56.098579885682774
+Step 142
+	step: 142
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -41
+	freqpos: 10
+	frequency: 2200000
+	power: 52.895163522000516
+Step 143
+	step: 143
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 9
+	frequency: 2100000
+	power: 50.12348448289303
+Step 144
+	step: 144
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 10
+	frequency: 2200000
+	power: 52.8879008871641
+Step 145
+	step: 145
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 9
+	frequency: 2100000
+	power: 50.073029785565105
+Step 146
+	step: 146
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -45
+	freqpos: 10
+	frequency: 2200000
+	power: 53.204094477388345
+Step 147
+	step: 147
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -43
+	freqpos: 11
+	frequency: 2300000
+	power: 56.14529969032733
+Step 148
+	step: 148
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 10
+	frequency: 2200000
+	power: 53.27333693337296
+Step 149
+	step: 149
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -42
+	freqpos: 11
+	frequency: 2300000
+	power: 56.093615848902644
+Step 150
+	step: 150
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 10
+	frequency: 2200000
+	power: 52.90320919747735
+Step 151
+	step: 151
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 9
+	frequency: 2100000
+	power: 50.10903891968454
+Step 152
+	step: 152
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -45
+	freqpos: 10
+	frequency: 2200000
+	power: 53.26575665056815
+Step 153
+	step: 153
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -43
+	freqpos: 11
+	frequency: 2300000
+	power: 56.077595186859305
+Step 154
+	step: 154
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 12
+	frequency: 2400000
+	power: 59.37654734785846
+Step 155
+	step: 155
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -42
+	freqpos: 11
+	frequency: 2300000
+	power: 56.17756859645907
+Step 156
+	step: 156
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 10
+	frequency: 2200000
+	power: 53.295462714646284
+Step 157
+	step: 157
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -41
+	freqpos: 11
+	frequency: 2300000
+	power: 56.08419155836167
+Step 158
+	step: 158
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 12
+	frequency: 2400000
+	power: 59.472444102292336
+Step 159
+	step: 159
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 12
+	frequency: 2400000
+	power: 59.451245091794746
+Step 160
+	step: 160
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 12
+	frequency: 2400000
+	power: 59.56228100107524
+Step 161
+	step: 161
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -42
+	freqpos: 11
+	frequency: 2300000
+	power: 56.16157684142831
+Step 162
+	step: 162
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 12
+	frequency: 2400000
+	power: 59.483252895132146
+Step 163
+	step: 163
+	state: 8
+	interval: [60.5, 64.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 13
+	frequency: 2500000
+	power: 62.73438682019334
+Step 164
+	step: 164
+	state: 7
+	interval: [57.0, 60.5]
+	reward: 1
+	acc_reward: -43
+	freqpos: 12
+	frequency: 2400000
+	power: 58.901263921845505
+Step 165
+	step: 165
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 12
+	frequency: 2400000
+	power: 58.88626084277088
+Step 166
+	step: 166
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -42
+	freqpos: 11
+	frequency: 2300000
+	power: 56.22279184678408
+Step 167
+	step: 167
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 10
+	frequency: 2200000
+	power: 53.42804294093628
+Step 168
+	step: 168
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -41
+	freqpos: 11
+	frequency: 2300000
+	power: 56.17441665039619
+Step 169
+	step: 169
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 12
+	frequency: 2400000
+	power: 59.30561836481304
+Step 170
+	step: 170
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 12
+	frequency: 2400000
+	power: 59.25131736766076
+Step 171
+	step: 171
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -41
+	freqpos: 11
+	frequency: 2300000
+	power: 56.210681197268144
+Step 172
+	step: 172
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 12
+	frequency: 2400000
+	power: 59.2658467757306
+Step 173
+	step: 173
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 12
+	frequency: 2400000
+	power: 59.18343457952387
+Step 174
+	step: 174
+	state: 8
+	interval: [60.5, 64.5]
+	reward: -1
+	acc_reward: -44
+	freqpos: 13
+	frequency: 2500000
+	power: 62.72891178723746
+Step 175
+	step: 175
+	state: 7
+	interval: [57.0, 60.5]
+	reward: 1
+	acc_reward: -43
+	freqpos: 12
+	frequency: 2400000
+	power: 59.49321052755726
+Step 176
+	step: 176
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -41
+	freqpos: 11
+	frequency: 2300000
+	power: 56.17264401727597
+Step 177
+	step: 177
+	state: 7
+	interval: [57.0, 60.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 12
+	frequency: 2400000
+	power: 59.4988332602108
+Step 178
+	step: 178
+	state: 8
+	interval: [60.5, 64.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 13
+	frequency: 2500000
+	power: 62.80922669239183
+Step 179
+	step: 179
+	state: 7
+	interval: [57.0, 60.5]
+	reward: 1
+	acc_reward: -42
+	freqpos: 12
+	frequency: 2400000
+	power: 59.569961178289745
+Step 180
+	step: 180
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -40
+	freqpos: 11
+	frequency: 2300000
+	power: 56.17979293206375
+Step 181
+	step: 181
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -41
+	freqpos: 10
+	frequency: 2200000
+	power: 53.453791851074
+Step 182
+	step: 182
+	state: 6
+	interval: [53.5, 57.0]
+	reward: 2
+	acc_reward: -39
+	freqpos: 11
+	frequency: 2300000
+	power: 56.253695981254886
+Step 183
+	step: 183
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -40
+	freqpos: 10
+	frequency: 2200000
+	power: 53.41464531536392
+Step 184
+	step: 184
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -41
+	freqpos: 10
+	frequency: 2200000
+	power: 53.30250304928028
+Step 185
+	step: 185
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -42
+	freqpos: 10
+	frequency: 2200000
+	power: 53.3554365004195
+Step 186
+	step: 186
+	state: 5
+	interval: [50.0, 53.5]
+	reward: -1
+	acc_reward: -43
+	freqpos: 9
+	frequency: 2100000
+	power: 50.230608677678795
+Step 187
+	step: 187
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -44
+	freqpos: 8
+	frequency: 2000000
+	power: 47.62664342898654
+Step 188
+	step: 188
+	state: 5
+	interval: [50.0, 53.5]
+	reward: 1
+	acc_reward: -43
+	freqpos: 9
+	frequency: 2100000
+	power: 50.110167873825105
+Step 189
+	step: 189
+	state: 4
+	interval: [46.5, 50.0]
+	reward: -1
+	acc_reward: -44
+	freqpos: 8
+	frequency: 2000000
+	power: 47.650130413594475
+Step 190
+	step: 190
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -45
+	freqpos: 7
+	frequency: 1900000
+	power: 44.75926167008238
+Step 191
+	step: 191
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -46
+	freqpos: 7
+	frequency: 1900000
+	power: 44.74182932128636
+Step 192
+	step: 192
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -47
+	freqpos: 7
+	frequency: 1900000
+	power: 44.69077061217207
+Step 193
+	step: 193
+	state: 3
+	interval: [43.5, 46.5]
+	reward: -1
+	acc_reward: -48
+	freqpos: 7
+	frequency: 1900000
+	power: 44.69739452095664
+Step 194
+	step: 194
+	state: 2
+	interval: [40.5, 43.5]
+	reward: -1
+	acc_reward: -49
+	freqpos: 6
+	frequency: 1800000
+	power: 42.36052012617137
+Step 195
+	step: 195
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -50
+	freqpos: 5
+	frequency: 1700000
+	power: 40.18612910555578
+Step 196
+	step: 196
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -51
+	freqpos: 5
+	frequency: 1700000
+	power: 40.1056571362844
+Step 197
+	step: 197
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -52
+	freqpos: 4
+	frequency: 1600000
+	power: 37.74548439715897
+Step 198
+	step: 198
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -53
+	freqpos: 4
+	frequency: 1600000
+	power: 37.797285189859416
+Step 199
+	step: 199
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -54
+	freqpos: 5
+	frequency: 1700000
+	power: 40.146944976263505
+Step 200
+	step: 200
+	state: 1
+	interval: [None, 40.5]
+	reward: -1
+	acc_reward: -55
+	freqpos: 5
+	frequency: 1700000
+	power: 40.09201557044052
+
+#########################
+

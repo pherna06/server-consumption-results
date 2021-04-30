@@ -1,6 +1,6 @@
 {
     "env": "CPUEnv03-v0",
-    "work": "floatproduct",
+    "work": "floatsort",
     "cpuconfig": {
         "0": [
             0,
