@@ -1,0 +1,96 @@
+{
+    "env": "FinalEnv03-v0",
+    "work": "floatproduct",
+    "cpuconfig": {
+        "0": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "1": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "envconfig": {
+        "power": 100.0,
+        "socket": 1,
+        "cores": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "maxsteps": 200,
+        "minpower": 15.0,
+        "maxpower": 115.0,
+        "decision_time": 0.25,
+        "measure_time": 0.15,
+        "powpoints": [
+            44.0,
+            47.1,
+            50.4,
+            53.8,
+            57.3,
+            61.1,
+            65.0,
+            69.0,
+            73.2,
+            77.5,
+            82.0,
+            86.6,
+            91.8,
+            97.3
+        ]
+    },
+    "workconfig": {
+        "groups": [
+            [
+                8
+            ],
+            [
+                9
+            ],
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                13
+            ],
+            [
+                14
+            ],
+            [
+                15
+            ]
+        ],
+        "size": 1000
+    },
+    "agentconfig": {},
+    "trainconfig": {
+        "chkptpath": "agent/",
+        "epochs": 5,
+        "verbose": 1
+    }
+}

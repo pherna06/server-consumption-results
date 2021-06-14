@@ -24,7 +24,7 @@
         ]
     },
     "envconfig": {
-        "power": 42.5,
+        "power": 40.0,
         "socket": 1,
         "cores": [
             8,
