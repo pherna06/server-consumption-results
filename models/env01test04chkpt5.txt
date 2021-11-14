@@ -1,0 +1,26 @@
+2021-11-14 22:23:46,646 INFO trainable.py:481 -- Restored on 147.96.71.216 from checkpoint: ./FinalEnv01/test-04/agent/checkpoint_5/checkpoint-5
+2021-11-14 22:23:46,647 INFO trainable.py:489 -- Current state after restoring: {'_iteration': 5, '_timesteps_total': None, '_time_total': 5139.274104833603, '_episodes_total': 99}
+Model: "model"
+__________________________________________________________________________________________________
+ Layer (type)                   Output Shape         Param #     Connected to
+==================================================================================================
+ observations (InputLayer)      [(None, 53)]         0           []
+
+ fc_1 (Dense)                   (None, 256)          13824       ['observations[0][0]']
+
+ fc_value_1 (Dense)             (None, 256)          13824       ['observations[0][0]']
+
+ fc_2 (Dense)                   (None, 256)          65792       ['fc_1[0][0]']
+
+ fc_value_2 (Dense)             (None, 256)          65792       ['fc_value_1[0][0]']
+
+ fc_out (Dense)                 (None, 2)            514         ['fc_2[0][0]']
+
+ value_out (Dense)              (None, 1)            257         ['fc_value_2[0][0]']
+
+==================================================================================================
+Total params: 160,003
+Trainable params: 160,003
+Non-trainable params: 0
+__________________________________________________________________________________________________
+None
